@@ -1,0 +1,6 @@
+C:\Users\User1\Documents\Practice Projects\DoctorScheduleService\DoctorScheduleService\bin\DoctorScheduleService.dll.config
+C:\Users\User1\Documents\Practice Projects\DoctorScheduleService\DoctorScheduleService\bin\DoctorScheduleService.dll
+C:\Users\User1\Documents\Practice Projects\DoctorScheduleService\DoctorScheduleService\bin\DoctorScheduleService.pdb
+C:\Users\User1\Documents\Practice Projects\DoctorScheduleService\DoctorScheduleService\obj\Debug\DoctorScheduleService.csprojResolveAssemblyReference.cache
+C:\Users\User1\Documents\Practice Projects\DoctorScheduleService\DoctorScheduleService\obj\Debug\DoctorScheduleService.dll
+C:\Users\User1\Documents\Practice Projects\DoctorScheduleService\DoctorScheduleService\obj\Debug\DoctorScheduleService.pdb

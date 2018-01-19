@@ -1,0 +1,6 @@
+C:\Users\User1\Documents\Tri 1 2016\SIT737\Assignments\Assignment 2\ProduceSchedules\ProduceSchedules\bin\ProduceSchedules.dll.config
+C:\Users\User1\Documents\Tri 1 2016\SIT737\Assignments\Assignment 2\ProduceSchedules\ProduceSchedules\bin\ProduceSchedules.dll
+C:\Users\User1\Documents\Tri 1 2016\SIT737\Assignments\Assignment 2\ProduceSchedules\ProduceSchedules\bin\ProduceSchedules.pdb
+C:\Users\User1\Documents\Tri 1 2016\SIT737\Assignments\Assignment 2\ProduceSchedules\ProduceSchedules\obj\Debug\ProduceSchedules.csprojResolveAssemblyReference.cache
+C:\Users\User1\Documents\Tri 1 2016\SIT737\Assignments\Assignment 2\ProduceSchedules\ProduceSchedules\obj\Debug\ProduceSchedules.dll
+C:\Users\User1\Documents\Tri 1 2016\SIT737\Assignments\Assignment 2\ProduceSchedules\ProduceSchedules\obj\Debug\ProduceSchedules.pdb

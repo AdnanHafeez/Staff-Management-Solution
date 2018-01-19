@@ -1,0 +1,14 @@
+C:\Users\User1\Documents\Practice Projects\LogIn\LogIn\bin\Debug\LogIn.exe.config
+C:\Users\User1\Documents\Practice Projects\LogIn\LogIn\bin\Debug\LogIn.exe
+C:\Users\User1\Documents\Practice Projects\LogIn\LogIn\bin\Debug\LogIn.pdb
+C:\Users\User1\Documents\Practice Projects\LogIn\LogIn\obj\Debug\LogIn.csprojResolveAssemblyReference.cache
+C:\Users\User1\Documents\Practice Projects\LogIn\LogIn\obj\Debug\LogIn.Form1.resources
+C:\Users\User1\Documents\Practice Projects\LogIn\LogIn\obj\Debug\LogIn.Properties.Resources.resources
+C:\Users\User1\Documents\Practice Projects\LogIn\LogIn\obj\Debug\LogIn.csproj.GenerateResource.Cache
+C:\Users\User1\Documents\Practice Projects\LogIn\LogIn\obj\Debug\LogIn.exe
+C:\Users\User1\Documents\Practice Projects\LogIn\LogIn\obj\Debug\LogIn.pdb
+C:\Users\User1\Documents\Practice Projects\LogIn\LogIn\obj\Debug\LogIn.MainWindow.resources
+C:\Users\User1\Documents\Practice Projects\LogIn\LogIn\obj\Debug\LogIn.ScheduleDetails.resources
+C:\Users\User1\Documents\Tri 1 2016\SIT737\Assignments\Assignment 2\LogIn\LogIn\bin\Debug\LogIn.exe.config
+C:\Users\User1\Documents\Tri 1 2016\SIT737\Assignments\Assignment 2\LogIn\LogIn\obj\Debug\LogIn.exe
+C:\Users\User1\Documents\Tri 1 2016\SIT737\Assignments\Assignment 2\LogIn\LogIn\obj\Debug\LogIn.pdb

@@ -1,0 +1,6 @@
+C:\Users\User1\Documents\Tri 1 2016\SIT737\Assignments\Assignment 2\StringParsing\StringParsing\bin\Debug\StringParsing.exe.config
+C:\Users\User1\Documents\Tri 1 2016\SIT737\Assignments\Assignment 2\StringParsing\StringParsing\bin\Debug\StringParsing.exe
+C:\Users\User1\Documents\Tri 1 2016\SIT737\Assignments\Assignment 2\StringParsing\StringParsing\bin\Debug\StringParsing.pdb
+C:\Users\User1\Documents\Tri 1 2016\SIT737\Assignments\Assignment 2\StringParsing\StringParsing\obj\Debug\StringParsing.csprojResolveAssemblyReference.cache
+C:\Users\User1\Documents\Tri 1 2016\SIT737\Assignments\Assignment 2\StringParsing\StringParsing\obj\Debug\StringParsing.exe
+C:\Users\User1\Documents\Tri 1 2016\SIT737\Assignments\Assignment 2\StringParsing\StringParsing\obj\Debug\StringParsing.pdb

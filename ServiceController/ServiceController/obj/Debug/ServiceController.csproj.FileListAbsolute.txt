@@ -1,0 +1,7 @@
+C:\Users\User1\Documents\Tri 1 2016\SIT737\Assignments\ServiceController\ServiceController\bin\Debug\ServiceController.exe.config
+C:\Users\User1\Documents\Tri 1 2016\SIT737\Assignments\Assignment 2\ServiceController\ServiceController\bin\Debug\ServiceController.exe.config
+C:\Users\User1\Documents\Tri 1 2016\SIT737\Assignments\Assignment 2\ServiceController\ServiceController\bin\Debug\ServiceController.exe
+C:\Users\User1\Documents\Tri 1 2016\SIT737\Assignments\Assignment 2\ServiceController\ServiceController\bin\Debug\ServiceController.pdb
+C:\Users\User1\Documents\Tri 1 2016\SIT737\Assignments\Assignment 2\ServiceController\ServiceController\obj\Debug\ServiceController.csprojResolveAssemblyReference.cache
+C:\Users\User1\Documents\Tri 1 2016\SIT737\Assignments\Assignment 2\ServiceController\ServiceController\obj\Debug\ServiceController.exe
+C:\Users\User1\Documents\Tri 1 2016\SIT737\Assignments\Assignment 2\ServiceController\ServiceController\obj\Debug\ServiceController.pdb

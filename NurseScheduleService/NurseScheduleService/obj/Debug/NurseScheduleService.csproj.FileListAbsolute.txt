@@ -1,0 +1,6 @@
+C:\Users\User1\Documents\Practice Projects\NurseScheduleService\NurseScheduleService\bin\Debug\NurseScheduleService.dll.config
+C:\Users\User1\Documents\Practice Projects\NurseScheduleService\NurseScheduleService\bin\Debug\NurseScheduleService.dll
+C:\Users\User1\Documents\Practice Projects\NurseScheduleService\NurseScheduleService\bin\Debug\NurseScheduleService.pdb
+C:\Users\User1\Documents\Practice Projects\NurseScheduleService\NurseScheduleService\obj\Debug\NurseScheduleService.csprojResolveAssemblyReference.cache
+C:\Users\User1\Documents\Practice Projects\NurseScheduleService\NurseScheduleService\obj\Debug\NurseScheduleService.dll
+C:\Users\User1\Documents\Practice Projects\NurseScheduleService\NurseScheduleService\obj\Debug\NurseScheduleService.pdb
